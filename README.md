@@ -1,5 +1,9 @@
+<div style="text-align: center;">
+  <img src="https://github.com/keshavberiwal7-prog/keshavberiwal7-prog/blob/main/HU-Prog-IT-Data-Analytics.jpg"
+       alt="coding"
+       width="400">
+</div>
 
-![logo](https://github.com/keshavberiwal7-prog/keshavberiwal7-prog/blob/main/HU-Prog-IT-Data-Analytics.jpg)
 <h1 align="center">Hi 👋, I'm Keshav</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
