@@ -1,12 +1,7 @@
 <p align="center">
   <img src="https://github.com/keshavberiwal7-prog/keshavberiwal7-prog/blob/main/download.jpg" width="80%" alt="GitHub Cover Image">
 </p>
-<img
-  align="right"
-  alt="coding"
-  width="375"
-  src="https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif"
-/>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nihal-kushwaha&label=Profile%20views&color=0e75b6&style=flat" alt="nihal-kushwaha" /> </p>
 
 # 💫 About Me:<h1 align="center">Hi 👋, I'm Keshav</h1>
