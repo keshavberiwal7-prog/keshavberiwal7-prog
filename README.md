@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/keshavberiwal7-prog/keshavberiwal7-prog/blob/main/HU-Prog-IT-Data-Analytics.jpg" width="80%" alt="GitHub Cover Image">
+  <img src="https://github.com/keshavberiwal7-prog/keshavberiwal7-prog/blob/main/download.jpg" width="80%" alt="GitHub Cover Image">
 </p>
 <img
   align="right"
